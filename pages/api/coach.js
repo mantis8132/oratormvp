@@ -1,0 +1,1 @@
+// Placeholder for /api/coach endpoint
